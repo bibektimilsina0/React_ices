@@ -1,0 +1,9 @@
+logo{
+    color:blue;
+}
+ul, .switch{
+ display: flex;
+ list-style: none;
+ justify-content: space-between;
+ font-weight: bold;
+}
